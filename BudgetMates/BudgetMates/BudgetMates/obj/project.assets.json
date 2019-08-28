@@ -350,11 +350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj",
+      "projectUniqueName": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj",
       "projectName": "BudgetMates",
-      "projectPath": "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj",
+      "projectPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj",
       "packagesPath": "C:\\Users\\BLADE PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates\\obj\\",
+      "outputPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

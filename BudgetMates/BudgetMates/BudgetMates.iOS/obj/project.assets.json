@@ -720,11 +720,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates.iOS\\BudgetMates.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.iOS\\BudgetMates.iOS.csproj",
       "projectName": "BudgetMates.iOS",
-      "projectPath": "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates.iOS\\BudgetMates.iOS.csproj",
+      "projectPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.iOS\\BudgetMates.iOS.csproj",
       "packagesPath": "C:\\Users\\BLADE PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates.iOS\\obj\\",
+      "outputPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -745,8 +745,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj": {
-              "projectPath": "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj"
+            "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj": {
+              "projectPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj"
             }
           }
         }

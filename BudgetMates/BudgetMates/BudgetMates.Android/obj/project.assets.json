@@ -801,11 +801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates.Android\\BudgetMates.Android.csproj",
+      "projectUniqueName": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.Android\\BudgetMates.Android.csproj",
       "projectName": "BudgetMates.Android",
-      "projectPath": "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates.Android\\BudgetMates.Android.csproj",
+      "projectPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.Android\\BudgetMates.Android.csproj",
       "packagesPath": "C:\\Users\\BLADE PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates.Android\\obj\\",
+      "outputPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -826,8 +826,8 @@
       "frameworks": {
         "monoandroid81": {
           "projectReferences": {
-            "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj": {
-              "projectPath": "C:\\Users\\BLADE PRO\\source\\repos\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj"
+            "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj": {
+              "projectPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj"
             }
           }
         }
