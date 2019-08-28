@@ -4,9 +4,10 @@
              x:Class="BudgetMates.Home">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Update bills" />
+            <Button Text="View Bills" />
+            <Button Text="House Settings" />
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

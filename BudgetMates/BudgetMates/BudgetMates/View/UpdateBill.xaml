@@ -4,9 +4,34 @@
              x:Class="BudgetMates.View.UpdateBill">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text="Electrocity" />
+            <Label Text="Amount : " />
+            <Editor />
+            <Label Text="Period :" />
+            <Button Text="Update" />
+            <Label Text="_________________________________________________" />
+            
+            <Label Text="Gas" />
+            <Label Text="Amount : " />
+            <Editor />
+            <Label Text="Period :" />
+            <Button Text="Update" />
+            <Label Text="_________________________________________________" />
+
+            <Label Text="Water" />
+            <Label Text="Amount : " />
+            <Editor />
+            <Label Text="Period :" />
+            <Button Text="Update" />
+            <Label Text="_________________________________________________" />
+
+            <Label Text="Rent" />
+            <Label Text="Amount : " />
+            <Editor />
+            <Label Text="Period :" />
+            <Button Text="Update" />
+
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

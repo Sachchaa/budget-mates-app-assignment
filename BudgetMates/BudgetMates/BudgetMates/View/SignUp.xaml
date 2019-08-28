@@ -4,9 +4,21 @@
              x:Class="BudgetMates.View.SignUp">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label Text=" Please enter details " />
+            <Label Text="Full Name" />
+            <Entry Placeholder="" />
+            <Label Text="Email Address" />
+            <Entry Placeholder="" />
+            <Label Text="Phone Number" />
+            <Entry Placeholder="" />
+            <Label Text="Password" />
+            <Entry Placeholder="" />
+            <Label Text="Conform Password" />
+            <Entry Placeholder="" />
+            
+            <Button Text="Sign up" />
+            
+            
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
