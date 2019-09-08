@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     <NuGetPackageImportStamp>
@@ -90,10 +89,11 @@
     <Folder Include="Resources\drawable-xhdpi\" />
     <Folder Include="Resources\drawable-xxhdpi\" />
     <Folder Include="Resources\drawable-xxxhdpi\" />
+    <Folder Include="Resources\Menu\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BudgetMates\BudgetMates.csproj">
-      <Project>{D309EA45-7741-4732-B100-E288B1399C65}</Project>
+      <Project>{A57EBAB3-2802-4917-9402-4B433C3775E3}</Project>
       <Name>BudgetMates</Name>
     </ProjectReference>
   </ItemGroup>

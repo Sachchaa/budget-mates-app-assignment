@@ -13,7 +13,7 @@
 namespace BudgetMates.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\CreateHouseID.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View/CreateHouseID.xaml")]
     public partial class CreateHouseID : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

@@ -13,7 +13,7 @@
 namespace BudgetMates.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\SignUp.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View/SignUp.xaml")]
     public partial class SignUp : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

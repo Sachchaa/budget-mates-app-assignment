@@ -15,6 +15,18 @@ namespace BudgetMates.View
 		public UpdateBill ()
 		{
 			InitializeComponent ();
+
+           
+            BillType.Items.Add("Electricity Bill");
+            BillType.Items.Add("Gas Bill");
+            BillType.Items.Add("Water Bill");
+            BillType.Items.Add("Internet Bill");
+            BillType.Items.Add("Rent");
+
+
 		}
+
+
+
 	}
 }

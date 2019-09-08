@@ -1,9 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="BudgetMates.View.ViewBill">
+             x:Class="BudgetMates.View.ViewBill"
+             Title="Current Bills">
     <ContentPage.Content>
-        <StackLayout>
+      
+            <ListView x:Name="viewBillList" HasUnevenRows="true">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout> 
+                                <StackLayout Orientation="Vertical" Padding="2" BackgroundColor="Silver" HeightRequest="80">
+                                    <Label Text = "{Binding BillType}" FontSize=" Micro"/>
+                                    <Label Text = "{Binding Month}" FontSize="Micro" />
+                                    <Label Text = "{Binding Amount}" FontSize="Micro" />
+                                    <Label Text = "{Binding DueDate}" FontSize="Micro" />
+                                </StackLayout>
+                            <Grid HeightRequest="5"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>        
+            </ListView>
+            
+           <!-- 
           <Label Text="Gas" />
             <Label Text=" $$ " />
             <Label Text="_PERIOD_" />
@@ -23,8 +43,7 @@
             <Label Text=" $$ " />
             <Label Text="_PERIOD_" />
 
-
-
-        </StackLayout>
+            -->
+            
     </ContentPage.Content>
 </ContentPage>

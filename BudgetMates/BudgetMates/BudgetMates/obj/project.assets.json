@@ -343,33 +343,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\BLADE PRO\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/sachinkanishka/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj",
+      "projectUniqueName": "/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/BudgetMates.csproj",
       "projectName": "BudgetMates",
-      "projectPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj",
-      "packagesPath": "C:\\Users\\BLADE PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\obj\\",
+      "projectPath": "/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/BudgetMates.csproj",
+      "packagesPath": "/Users/sachinkanishka/.nuget/packages/",
+      "outputPath": "/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\BLADE PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/sachinkanishka/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

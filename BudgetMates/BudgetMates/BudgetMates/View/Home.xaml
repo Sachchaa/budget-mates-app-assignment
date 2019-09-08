@@ -1,12 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="BudgetMates.Home">
+             x:Class="BudgetMates.Home"
+             Title="Budget Mates">
+    
     <ContentPage.Content>
-        <StackLayout>
-            <Button Text="Update bills" />
-            <Button Text="View Bills" />
-            <Button Text="House Settings" />
+        <StackLayout Orientation="Vertical" Padding="5">   
+            <Button Text ="Update bills" Clicked = "UpdateBills_Clicked" />
+            <Button Text ="View Bills" Clicked = "ViewBills_Clicked" />
+            <Button Text ="House Settings" Clicked="HouseSettings_Clicked" />
+            <Button Text ="Add House Mate" Clicked="AddHouseMate_Clicked" />
+            <Button Text ="Find Your Share of Bills" Clicked="FindBill_Clicked"/>
             
         </StackLayout>
     </ContentPage.Content>
