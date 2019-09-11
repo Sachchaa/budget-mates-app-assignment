@@ -7,7 +7,7 @@ namespace BudgetMates
         public string HouseMateContacts { get; set; }
         public DateTime HouseMateArrivedDate { get; set; }
 
-
+        //new comment
 
         public HouseMates()
         {
