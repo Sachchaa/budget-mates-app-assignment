@@ -16,5 +16,14 @@ namespace BudgetMates.View
         {
             InitializeComponent();
         }
+        private async void Login_Clicked(Object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new Home());
+        }
+
+        private async void SignUp_Clicked(Object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new SignUp());
+        }
     }
 }

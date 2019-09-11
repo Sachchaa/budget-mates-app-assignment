@@ -184,4 +184,6 @@ C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\bin\Debug\netstandard2.0\BudgetMates.dll
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.Android\bin\Debug\BudgetMates.dll.mdb
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.Android\obj\Debug\81\linksrc\BudgetMates.dll.mdb
