@@ -1,0 +1,1 @@
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\BudgetMates.UWP.csproj;x86

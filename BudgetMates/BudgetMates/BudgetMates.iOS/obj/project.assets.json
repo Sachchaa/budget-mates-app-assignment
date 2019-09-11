@@ -714,32 +714,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/sachinkanishka/.nuget/packages/": {}
+    "C:\\Users\\BLADE PRO\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/BudgetMates.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.iOS\\BudgetMates.iOS.csproj",
       "projectName": "BudgetMates.iOS",
-      "projectPath": "/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/BudgetMates.iOS.csproj",
-      "packagesPath": "/Users/sachinkanishka/.nuget/packages/",
-      "outputPath": "/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/",
+      "projectPath": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.iOS\\BudgetMates.iOS.csproj",
+      "packagesPath": "C:\\Users\\BLADE PRO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/sachinkanishka/.config/NuGet/NuGet.Config"
+        "C:\\Users\\BLADE PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "xamarinios10"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/BudgetMates.csproj": {
-              "projectPath": "/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/BudgetMates.csproj"
+            "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj": {
+              "projectPath": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj"
             }
           }
         }

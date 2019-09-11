@@ -343,28 +343,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/sachinkanishka/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\BLADE PRO\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/BudgetMates.csproj",
+      "projectUniqueName": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj",
       "projectName": "BudgetMates",
-      "projectPath": "/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/BudgetMates.csproj",
-      "packagesPath": "/Users/sachinkanishka/.nuget/packages/",
-      "outputPath": "/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/",
+      "projectPath": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj",
+      "packagesPath": "C:\\Users\\BLADE PRO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/sachinkanishka/.config/NuGet/NuGet.Config"
+        "C:\\Users\\BLADE PRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

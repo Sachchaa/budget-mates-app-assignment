@@ -7495,11 +7495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\BudgetMates.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\BudgetMates.UWP.csproj",
       "projectName": "BudgetMates.UWP",
-      "projectPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\BudgetMates.UWP.csproj",
+      "projectPath": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\BudgetMates.UWP.csproj",
       "packagesPath": "C:\\Users\\BLADE PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\obj\\",
+      "outputPath": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7521,8 +7521,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj": {
-              "projectPath": "C:\\Users\\BLADE PRO\\Documents\\GitHub\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj"
+            "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj": {
+              "projectPath": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj"
             }
           }
         }

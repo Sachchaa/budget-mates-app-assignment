@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using BudgetMates.Models;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
-using static Android.Graphics.Path;
+
 
 namespace BudgetMates.View
 {
