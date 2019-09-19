@@ -520,6 +520,24 @@
     <AppxPackagedFile Include="C:\Users\BLADE PRO\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.1.5\runtimes\win10-x86\lib\uap10.0.15138\netstandard.dll">
       <PackagePath>netstandard.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BLADE PRO\.nuget\packages\sqlite-net-pcl\1.5.231\lib\netstandard1.1\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BLADE PRO\.nuget\packages\sqlitepclraw.bundle_green\1.1.11\lib\uap10.0\SQLitePCLRaw.batteries_green.dll">
+      <PackagePath>SQLitePCLRaw.batteries_green.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BLADE PRO\.nuget\packages\sqlitepclraw.bundle_green\1.1.11\lib\uap10.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BLADE PRO\.nuget\packages\sqlitepclraw.core\1.1.11\lib\uap10.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BLADE PRO\.nuget\packages\sqlitepclraw.lib.e_sqlite3.v140\1.1.11\runtimes\win10-x86\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\BLADE PRO\.nuget\packages\sqlitepclraw.provider.e_sqlite3.uwp10\1.1.11\lib\uap10.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\BLADE PRO\.nuget\packages\xamarin.forms\3.4.0.1008975\lib\uap10.0\Xamarin.Forms.Core.dll">
       <PackagePath>Xamarin.Forms.Core.dll</PackagePath>
     </AppxPackagedFile>
@@ -534,9 +552,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\bin\Debug\netstandard2.0\BudgetMates.dll">
       <PackagePath>BudgetMates.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\bin\Debug\netstandard2.0\Mono.Android.dll">
-      <PackagePath>Mono.Android.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>

@@ -9,9 +9,9 @@
             <Label Text=" House Budget , app image" />
             
             <Label Text="User Name : " />
-            <Entry Placeholder="" />
+            <Editor x:Name="getUserName1"/>
             <Label Text="Password :" />
-            <Entry Placeholder="" />
+            <Editor x:Name="getpassword1"/>
             <Button Text="Login" Clicked = "Login_Clicked"/>
             <Button Text="Sign Up" Clicked = "SignUp_Clicked" />
             

@@ -10,6 +10,7 @@ namespace BudgetMates.Objects
         public string phone_No { get; set; }
         public string username { get; set; }
         public string password { get; set; }
+        public string email { get; set; }
         //getName getEmail getPhone getUserName getPassword getCPasword
 
         public Person(string name , string phone , string Password, string UserName )
@@ -18,9 +19,12 @@ namespace BudgetMates.Objects
             phone_No = phone;
             password = Password;
             username = UserName;
+          //  email = Email;
         }
 
         public Person()
         { }
     }
 }
+
+

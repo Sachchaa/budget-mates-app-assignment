@@ -28,7 +28,7 @@ namespace BudgetMates
         }
         private async void HouseSettings_Clicked(Object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new CreateHouseID());
+            await Navigation.PushAsync(new HouseSettings());
         }
         private async void AddHouseMate_Clicked(Object sender, EventArgs e)
         {
