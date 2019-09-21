@@ -38,3 +38,23 @@ C:/Users/BLADE PRO/Documents/GitHub/BudgetMatesApp/BudgetMates/BudgetMates/Budge
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.csprojAssemblyReference.cache
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/View/AddHouseMate.xaml.g.cs
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/View/FindYourBills.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\BudgetMates.csprojAssemblyReference.cache
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\View\AddHouseMate.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\View\CreateHouseID.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\View\FindYourBills.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\View\Home.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\View\Login.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\View\SignUp.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\View\UpdateBill.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\View\ViewBill.xaml.g.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\BudgetMates.csproj.CoreCompileInputs.cache
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\BudgetMates.AssemblyInfoInputs.cache
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\BudgetMates.AssemblyInfo.cs
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\BudgetMates.dll
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\BudgetMates.pdb
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\bin\Debug\netstandard2.0\BudgetMates.deps.json
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\bin\Debug\netstandard2.0\BudgetMates.dll
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\bin\Debug\netstandard2.0\BudgetMates.pdb
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates\obj\Debug\netstandard2.0\XamlC.stamp

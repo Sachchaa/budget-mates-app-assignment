@@ -42,10 +42,8 @@
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/bin/iPhoneSimulator/Debug/BudgetMates.dll
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/bin/iPhoneSimulator/Debug/Mono.Android.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/bin/iPhoneSimulator/Debug/BudgetMates.pdb
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/bin/iPhoneSimulator/Debug/BudgetMates.dll.mdb
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/bin/iPhoneSimulator/Debug/Mono.Android.pdb
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
@@ -58,3 +56,13 @@
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/BudgetMates.iOS.csproj.CopyComplete
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/BudgetMates.iOS.exe
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/BudgetMates.iOS.pdb
+C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/optimized/
+C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/BudgetMates.iOS.csprojAssemblyReference.cache
+C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/BudgetMates.iOS.csproj.CoreCompileInputs.cache
+C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/BudgetMates.iOS.exe
+C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/BudgetMates.iOS.pdb

@@ -23,4 +23,3 @@
 /Users/sachinkanishka/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/BudgetMates.dll
 /Users/sachinkanishka/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/Mono.Android.dll

@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{CEE22FCD-770A-480F-85B1-3C50B05B1918}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BudgetMates/BudgetMates/Models/ListViewItems.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BudgetMates/BudgetMates/App.xaml.cs">
     <Files>
       <File FileName="../../Desktop/ContactAppNew/ContactApp/ContactApplication/AddNewContact.cs" Line="1" Column="1" />
       <File FileName="../../Desktop/ContactAppNew/ContactApp/ContactApplication/ListViewAdapter.cs" />
@@ -8,21 +8,21 @@
       <File FileName="BudgetMates/BudgetMates/View/Home.xaml" />
       <File FileName="BudgetMates/BudgetMates/MainPage.xaml.cs" />
       <File FileName="BudgetMates/BudgetMates/MainPage.xaml" />
-      <File FileName="BudgetMates/BudgetMates/App.xaml.cs" />
+      <File FileName="BudgetMates/BudgetMates/App.xaml.cs" Line="13" Column="35" />
       <File FileName="BudgetMates/BudgetMates/View/Login.xaml.cs" />
       <File FileName="BudgetMates/BudgetMates/View/Home.xaml.cs" />
       <File FileName="BudgetMates/BudgetMates/View/Login.xaml" />
       <File FileName="BudgetMates/BudgetMates/View/CreateHouseID.xaml" />
       <File FileName="BudgetMates/BudgetMates/View/ViewBill.xaml" />
-      <File FileName="BudgetMates/BudgetMates/App.xaml" />
+      <File FileName="BudgetMates/BudgetMates/App.xaml" Line="1" Column="1" />
       <File FileName="BudgetMates/BudgetMates/View/SignUp.xaml" />
       <File FileName="BudgetMates/BudgetMates.Android/Properties/AndroidManifest.xml" />
       <File FileName="BudgetMates/BudgetMates.Android/Resources/values/styles.xml" />
-      <File FileName="BudgetMates/BudgetMates/View/UpdateBill.xaml" Line="10" Column="33" />
+      <File FileName="BudgetMates/BudgetMates/View/UpdateBill.xaml" />
       <File FileName="BudgetMates/BudgetMates/View/UpdateBill.xaml.cs" />
       <File FileName="BudgetMates/BudgetMates/View/SignUp.xaml.cs" />
       <File FileName="BudgetMates/BudgetMates/View/ViewBill.xaml.cs" />
-      <File FileName="BudgetMates/BudgetMates/Models/ListViewItems.cs" Line="1" Column="1" />
+      <File FileName="BudgetMates/BudgetMates/Models/ListViewItems.cs" />
       <File FileName="BudgetMates/BudgetMates/View/AddHouseMate.xaml" />
       <File FileName="BudgetMates/BudgetMates/View/AddHouseMate.xaml.cs" />
       <File FileName="BudgetMates/BudgetMates/View/FindYourBills.xaml" />
@@ -35,9 +35,7 @@
         <State name="__root__">
           <Node name="BudgetMates" expanded="True">
             <Node name="BudgetMates" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="ListViewItems.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="View" expanded="True">
                 <Node name="AddHouseMate.xaml" expanded="True" />
                 <Node name="CreateHouseID.xaml" expanded="True" />
@@ -48,7 +46,9 @@
                 <Node name="UpdateBill.xaml" expanded="True" />
                 <Node name="ViewBill.xaml" expanded="True" />
               </Node>
-              <Node name="App.xaml" expanded="True" />
+              <Node name="App.xaml" expanded="True">
+                <Node name="App.xaml.cs" selected="True" />
+              </Node>
               <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>

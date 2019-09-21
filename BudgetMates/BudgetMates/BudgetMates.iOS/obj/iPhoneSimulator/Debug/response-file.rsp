@@ -199,7 +199,6 @@
 -r=/Users/sachinkanishka/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/sachinkanishka/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/BudgetMates.dll
--r=/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/Mono.Android.dll
  --target-framework=Xamarin.iOS,v1.0
 --root-assembly=/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/bin/iPhoneSimulator/Debug/BudgetMates.iOS.exe
  

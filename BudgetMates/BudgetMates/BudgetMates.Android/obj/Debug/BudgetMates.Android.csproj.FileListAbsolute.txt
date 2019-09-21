@@ -117,7 +117,6 @@
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.Android/obj/Debug/android/assets/System.IO.Compression.FileSystem.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.Android/obj/Debug/android/assets/System.Net.Http.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.Android/obj/Debug/android/assets/System.Numerics.dll
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.Android/obj/Debug/android/assets/System.Runtime.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.Android/obj/Debug/android/assets/System.Transactions.dll
@@ -350,3 +349,4 @@
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.Android/obj/Debug/android/assets/Mono.Android.pdb
