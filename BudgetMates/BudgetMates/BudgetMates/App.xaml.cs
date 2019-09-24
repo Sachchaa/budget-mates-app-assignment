@@ -8,12 +8,23 @@ namespace BudgetMates
 {
     public partial class App : Application
     {
+        public static string FilePath;
+
         public App()
         {
             InitializeComponent();
 
             MainPage = new NavigationPage(new Home());
         }
+
+        public App(string filePath)
+        {
+            InitializeComponent();
+
+            MainPage = new NavigationPage(new Home());
+            FilePath = filePath;
+        }
+
 
         protected override void OnStart()
         {

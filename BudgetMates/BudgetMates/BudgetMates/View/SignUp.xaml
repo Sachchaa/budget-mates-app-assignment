@@ -1,22 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="BudgetMates.View.SignUp">
+             x:Class="BudgetMates.View.SignUp"
+             Title="Sign Up">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text=" Please enter details " />
+           
             <Label Text="Full Name" />
-            <Entry Placeholder="" />
-            <Label Text="Email Address" />
-            <Entry Placeholder="" />
-            <Label Text="Phone Number" />
-            <Entry Placeholder="" />
-            <Label Text="Password" />
-            <Entry Placeholder="" />
-            <Label Text="Conform Password" />
-            <Entry Placeholder="" />
+            <Editor x:Name="getName"/>
             
-            <Button Text="Sign up" />
+            <Label Text="Email Address" />
+            <Editor x:Name="getEmail"/>
+            
+            <Label Text="Phone Number" />
+            <Editor x:Name="getPhone"/>
+            
+            <Label Text="User Name" />
+            <Editor x:Name="getUserName"/>
+            
+            <Label Text="Password" />
+            <Editor x:Name="getPassword"/>
+            
+            <Label Text="Conform Password" />
+            <Editor x:Name="getCPasword"/>
+
+            <Button Text="Sign up" Clicked="SignUp_Clicked"/>
             
             
         </StackLayout>

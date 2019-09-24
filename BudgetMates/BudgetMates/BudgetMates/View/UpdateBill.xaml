@@ -8,50 +8,14 @@
         <StackLayout Orientation="Vertical" Padding="10">
 
             <Picker x:Name="BillType" Title= "Select Bill Type" FontSize="Small"/>
-            <Label Text="Month : " FontSize="Small" />
-            <Entry FontSize="Small" x:Name="txtMonth"/> 
+            <Picker x:Name="Address" Title= "Select Address" FontSize="Small"/>
+            <Picker x:Name="Month" Title= "Select Month" FontSize="Small"/>
             <Label Text="Amount : " FontSize="Small" /> 
             <Entry FontSize="Small" x:Name="txtAmount"/> 
             <Label Text="Due Date : " FontSize="Small" />
             <Entry FontSize="Small" x:Name="txtDueDate"/> 
-            <Button Text="Update Bill" FontSize="Small" />
+            <Button Text="Update Bill" FontSize="Small" x:Name="buttonUpdateBills" Clicked="UpdateBill_Clicked" />
             
-           
-                   
-            
-            
-            <!--
-            
-            <Label Text="Electrocity" />
-            <
-            <Editor />
-            <Label Text="Period :" />
-            <Button Text="Update" />
-            <Label Text="_________________________________________________" />
-            
-            <Label Text="Gas" />
-            <Label Text="Amount : " />
-            <Editor />
-            <Label Text="Period :" />
-            <Button Text="Update" />
-            <Label Text="_________________________________________________" />
-
-            <Label Text="Water" />
-            <Label Text="Amount : " />
-            <Editor />
-            <Label Text="Period :" />
-            <Button Text="Update" />
-            <Label Text="_________________________________________________" />
-
-            <Label Text="Rent" />
-            <Label Text="Amount : " />
-            <Editor />
-            <Label Text="Period :" />
-            <Button Text="Update" />
-            
-            -->
-
-
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

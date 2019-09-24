@@ -10,8 +10,9 @@
                     <DataTemplate>
                         <ViewCell>
                             <StackLayout> 
-                                <StackLayout Orientation="Vertical" Padding="2" BackgroundColor="Silver" HeightRequest="80">
-                                    <Label Text = "{Binding BillType}" FontSize=" Micro"/>
+                                <StackLayout Orientation="Vertical" Padding="2" BackgroundColor="Silver" HeightRequest="100">
+                                    <Label Text = "{Binding BillType}"/>
+                                    <Label Text = "{Binding Address}" FontSize="Micro"/>
                                     <Label Text = "{Binding Month}" FontSize="Micro" />
                                     <Label Text = "{Binding Amount}" FontSize="Micro" />
                                     <Label Text = "{Binding DueDate}" FontSize="Micro" />

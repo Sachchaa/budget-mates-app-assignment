@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using System.IO;
 
 namespace BudgetMates.Droid
 {
@@ -19,7 +20,12 @@ namespace BudgetMates.Droid
 
             base.OnCreate(savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
-            LoadApplication(new App());
+
+            string fileName = "budgegt_db.db3";
+            string folderPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal);
+            string completePath = Path.Combine(folderPath, fileName);
+
+            LoadApplication(new App(completePath));
         }
     }
 }

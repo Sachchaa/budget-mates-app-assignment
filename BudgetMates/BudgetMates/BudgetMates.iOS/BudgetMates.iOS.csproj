@@ -148,12 +148,15 @@
     <Reference Include="Xamarin.iOS" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="sqlite-net-pcl">
+      <Version>1.6.292</Version>
+    </PackageReference>
     <PackageReference Include="Xamarin.Forms" Version="3.4.0.1008975" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\BudgetMates\BudgetMates.csproj">
-      <Project>{D309EA45-7741-4732-B100-E288B1399C65}</Project>
+      <Project>{A57EBAB3-2802-4917-9402-4B433C3775E3}</Project>
       <Name>BudgetMates</Name>
     </ProjectReference>
   </ItemGroup>

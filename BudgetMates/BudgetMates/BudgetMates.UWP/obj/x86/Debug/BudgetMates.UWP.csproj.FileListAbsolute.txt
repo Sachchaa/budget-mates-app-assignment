@@ -1,3 +1,4 @@
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\e_sqlite3.dll
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\App.xbf
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\MainPage.xbf
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\BudgetMates.UWP.xr.xml
@@ -172,15 +173,18 @@ C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\WindowsBase.dll
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\mscorlib.dll
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\netstandard.dll
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\SQLite-net.dll
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\BudgetMates.dll
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
-C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\Mono.Android.dll
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\BudgetMates.pdb
-C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\bin\x86\Debug\Mono.Android.pdb
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\obj\x86\Debug\BudgetMates.UWP.csprojAssemblyReference.cache
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\obj\x86\Debug\App.g.i.cs
 C:\Users\BLADE PRO\Desktop\BudgetMatesV2\BudgetMatesApp\BudgetMates\BudgetMates\BudgetMates.UWP\obj\x86\Debug\App.g.cs
