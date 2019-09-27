@@ -5,16 +5,16 @@
              Title="Budget Mates">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="__________" />
             
             <Label Text=" House Budget , app image" />
             
-            <Label Text="User Name : " />
-            <Editor x:Name="getUserName1"/>
-            <Label Text="Password :" />
-            <Editor x:Name="getpassword1"/>
-            <Button Text="Login" Clicked = "Login_Clicked"/>
-            <Button Text="Sign Up" Clicked = "SignUp_Clicked" />
+            <Label Text="User Name : " FontSize="Small"/>
+            <Editor x:Name="getUserName1" FontSize="Small"/>
+            <Label Text="Password :" FontSize="Small"/>
+            <Editor x:Name="getpassword1" FontSize="Small"/>
+
+            <Button Text="Login" Clicked = "Login_Clicked" x:Name="loginButton"/>
+            <Button Text="Sign Up" Clicked = "SignUp_Clicked" x:Name="signUpButtonLoginPage"/>
             
             
             

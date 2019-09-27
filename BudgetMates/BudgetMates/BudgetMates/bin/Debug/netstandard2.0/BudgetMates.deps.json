@@ -11,7 +11,8 @@
         "dependencies": {
           "NETStandard.Library": "2.0.3",
           "Xamarin.Forms": "3.4.0.1008975",
-          "sqlite-net-pcl": "1.6.292"
+          "sqlite-net-pcl": "1.6.292",
+          "Mono.Android": "0.0.0.0"
         },
         "runtime": {
           "BudgetMates.dll": {}
@@ -77,6 +78,14 @@
             "fileVersion": "2.0.0.0"
           }
         }
+      },
+      "Mono.Android/0.0.0.0": {
+        "runtime": {
+          "Mono.Android.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
       }
     }
   },
@@ -127,6 +136,11 @@
       "sha512": "sha512-tM9syeev45u92OFENGjq+Zw8WiEwLJFiXe317XpL9SY2RRk9sm2fc1lDVjzwz0da+5ZP5fi24NAPsPQdxBdMwQ==",
       "path": "xamarin.forms/3.4.0.1008975",
       "hashPath": "xamarin.forms.3.4.0.1008975.nupkg.sha512"
+    },
+    "Mono.Android/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

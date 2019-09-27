@@ -23,9 +23,9 @@
 /Users/sachinkanishka/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/BudgetMates.dll
 /Users/sachinkanishka/.nuget/packages/xamarin.forms/3.4.0.1008975/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
-/Users/sachinkanishka/.nuget/packages/sqlite-net-pcl/1.5.231/lib/netstandard1.1/SQLite-net.dll
+/Users/sachinkanishka/.nuget/packages/sqlite-net-pcl/1.6.292/lib/netstandard1.1/SQLite-net.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/System.Runtime.dll
-/Users/sachinkanishka/.nuget/packages/sqlitepclraw.core/1.1.11/lib/Xamarin.iOS10/SQLitePCLRaw.core.dll
+/Users/sachinkanishka/.nuget/packages/sqlitepclraw.core/1.1.13/lib/Xamarin.iOS10/SQLitePCLRaw.core.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/System.Collections.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/System.Runtime.Extensions.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/System.Linq.Expressions.dll
@@ -33,8 +33,8 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/System.Diagnostics.Debug.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/System.Threading.Tasks.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/System.Linq.dll
-/Users/sachinkanishka/.nuget/packages/sqlitepclraw.bundle_green/1.1.11/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll
-/Users/sachinkanishka/.nuget/packages/sqlitepclraw.provider.sqlite3.ios_unified/1.1.11/lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll
+/Users/sachinkanishka/.nuget/packages/sqlitepclraw.bundle_green/1.1.13/lib/Xamarin.iOS10/SQLitePCLRaw.batteries_v2.dll
+/Users/sachinkanishka/.nuget/packages/sqlitepclraw.provider.sqlite3.ios_unified/1.1.13/lib/Xamarin.iOS10/SQLitePCLRaw.provider.sqlite3.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/System.Threading.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/System.Reflection.Extensions.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/System.Globalization.dll

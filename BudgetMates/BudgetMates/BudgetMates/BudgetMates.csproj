@@ -43,5 +43,8 @@
     <Reference Include="Mono.Android">
       <HintPath>..\..\..\..\..\..\Library\Frameworks\Xamarin.Android.framework\Versions\9.3.0-23\lib\xamarin.android\xbuild-frameworks\MonoAndroid\v8.1\Mono.Android.dll</HintPath>
     </Reference>
+    <Reference Include="Mono.Android">
+      <HintPath>..\..\..\..\..\..\Library\Frameworks\Xamarin.Android.framework\Versions\9.4.1.0\lib\xamarin.android\xbuild-frameworks\MonoAndroid\v8.1\Mono.Android.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

@@ -5,12 +5,17 @@
              Title="Budget Mates">
     
     <ContentPage.Content>
-        <StackLayout Orientation="Vertical" Padding="5">   
+        <StackLayout Orientation="Vertical" Padding="5">
+            <Label x:Name="lblUserName" FontSize="Large"/>
+            <Label x:Name="lblUserHomeCode" FontSize="Medium"/>
+
+            <Button Text ="Update Your Account" Clicked = "UpdateAccount_Clicked" />
             <Button Text ="Update bills" Clicked = "UpdateBills_Clicked" />
             <Button Text ="View Bills" Clicked = "ViewBills_Clicked" />
-            <Button Text ="House Settings" Clicked="HouseSettings_Clicked" />
-            <Button Text ="Add House Mate" Clicked="AddHouseMate_Clicked" />
+            <Button Text ="Get House Code" Clicked="HouseSettings_Clicked" />
+            <Button Text ="View House Details" Clicked="ViewHouses_Clicked" />
             <Button Text ="Find Your Share of Bills" Clicked="FindBill_Clicked"/>
+            <Button Text ="Log Out" Clicked="Logout_Clicked"/>
             
         </StackLayout>
     </ContentPage.Content>

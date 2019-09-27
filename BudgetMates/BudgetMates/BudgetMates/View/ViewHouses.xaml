@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BudgetMates.View.ViewHouses"
+             Title="House Details">
+
+    <ContentPage.Content>
+
+        <StackLayout>
+
+            <Label Text="User Name : " />
+            <Label x:Name="getViewUserName" FontSize="Medium"/>
+
+            <Label Text="House Code : " />
+            <Label x:Name="getViewHomeCode" FontSize="Medium"/>
+
+            <Label Text="Adress Line: " />
+            <Label x:Name="getViewAdressLine" FontSize="Medium"/>
+
+            <Label Text="Suburb : " />
+            <Label x:Name="getViewSuburb" FontSize="Medium"/>
+
+            <Label Text="State : " />
+            <Label x:Name="getViewState" FontSize="Medium"/>
+
+            <Label Text="Post Code: " />
+            <Label x:Name="getViewPostCode" FontSize="Medium"/>
+
+            <Label Text="Number of Rooms :" />
+            <Label x:Name="getViewNumberOfRooms" FontSize="Medium"/>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

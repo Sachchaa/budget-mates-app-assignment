@@ -6,25 +6,25 @@
     <ContentPage.Content>
         <StackLayout>
            
-            <Label Text="Full Name" />
+            <Label Text="Full Name : " />
             <Editor x:Name="getName"/>
-            
-            <Label Text="Email Address" />
-            <Editor x:Name="getEmail"/>
-            
-            <Label Text="Phone Number" />
+
+            <Label Text="Phone Number : " />
             <Editor x:Name="getPhone"/>
             
-            <Label Text="User Name" />
+            <Label Text="Email Address :" />
+            <Editor x:Name="getEmail"/>
+                
+            <Label Text="User Name : " />
             <Editor x:Name="getUserName"/>
             
-            <Label Text="Password" />
+            <Label Text="Password : " />
             <Editor x:Name="getPassword"/>
             
-            <Label Text="Conform Password" />
+            <Label Text="Confirm Password : " />
             <Editor x:Name="getCPasword"/>
 
-            <Button Text="Sign up" Clicked="SignUp_Clicked"/>
+            <Button Text="Sign up" x:Name="signUpButton" Clicked="SignUp_Clicked"/>
             
             
         </StackLayout>

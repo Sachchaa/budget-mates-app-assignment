@@ -14,14 +14,15 @@ namespace BudgetMates
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new Home());
+            MainPage = new NavigationPage(new Login());
         }
 
+        //Created this App method with a parameter to pass the file path to link with database
         public App(string filePath)
         {
             InitializeComponent();
 
-            MainPage = new NavigationPage(new Home());
+            MainPage = new NavigationPage(new Login());
             FilePath = filePath;
         }
 

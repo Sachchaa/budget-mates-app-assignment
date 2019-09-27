@@ -19,37 +19,39 @@ namespace BudgetMates.View
         {
             InitializeComponent();
         }
+
+        //This is the activity for the Login button
         private async void Login_Clicked(Object sender, EventArgs e)
         {
-
-            //getName getEmail getPhone getUserName getPassword getCPasword
-            //path string for the database file -1
-            string dbPath = Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "M_DB.db3");
-            //setup the db connection
-            var db = new SQLiteConnection(dbPath);
-            //setup a table - 2
-            //check username available
-            int x = 1;
-            var table = db.Table<Person>();
-            foreach (var item in table)
+            //Check the database to get the user name and password
+            using (SQLiteConnection conn = new SQLiteConnection(App.FilePath))
             {
-                if (item.username == getUserName1.Text && getpassword1.Text == item.password)
+                conn.CreateTable<Person>();
+                int x = 1; 
+                var person = conn.Table<Person>();
+
+                /*
+                  Check the Person table to verify the user name and password is correct. If correct, it goes to home page.
+                  And the user name will be passed to the home page to display.
+                */
+                foreach (var item in person)
                 {
-                    await Navigation.PushAsync(new Home());
-                    x = 2;
-                    break;
+                    if (getUserName1.Text == item.userName && getpassword1.Text == item.password)
+                    {
+                        await Navigation.PushAsync(new Home(item.userName));
+                        x = 2;
+                        break;
+                    }
                 }
-                
-
+                //If the user name and passwrord is incorrect, the displays an alert message.
+                if (x == 1)
+                {
+                    DisplayAlert("Unsuccessfull !", "Please Enter Correct login details ! ", "Ok");
+                }
             }
-            if (x == 1)
-            {
-                DisplayAlert("Unsuccessfull !", "Please Enter Correct login details ! ", "Ok");
-            }
-
-
         }
 
+        //This is the activity for the Sign Up page. 'Sign Up' page displays when the button clicked
         private async void SignUp_Clicked(Object sender, EventArgs e)
         {
             await Navigation.PushAsync(new SignUp());

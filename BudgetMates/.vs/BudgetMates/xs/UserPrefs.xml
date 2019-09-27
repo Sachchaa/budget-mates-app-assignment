@@ -1,46 +1,64 @@
 ﻿<Properties StartupConfiguration="{CEE22FCD-770A-480F-85B1-3C50B05B1918}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BudgetMates/BudgetMates/MainPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BudgetMates/BudgetMates/View/Home.xaml">
     <Files>
-      <File FileName="BudgetMates/BudgetMates/Objects/Person.cs" Line="18" Column="2" />
-      <File FileName="BudgetMates/BudgetMates/Models/ListViewItems.cs" Line="22" Column="1" />
-      <File FileName="BudgetMates/BudgetMates/Models/HouseMates.cs" Line="6" Column="36" />
-      <File FileName="BudgetMates/BudgetMates/View/UpdateBill.xaml" Line="12" Column="34" />
+      <File FileName="BudgetMates/BudgetMates/Models/ListViewItems.cs" Line="29" Column="1" />
+      <File FileName="BudgetMates/BudgetMates/Models/HouseMates.cs" />
+      <File FileName="BudgetMates/BudgetMates/View/UpdateBill.xaml" />
       <File FileName="BudgetMates/BudgetMates/View/AddHouseMate.xaml" Line="1" Column="1" />
-      <File FileName="BudgetMates/BudgetMates/View/SignUp.xaml" Line="7" Column="22" />
-      <File FileName="BudgetMates/BudgetMates/View/SignUp.xaml.cs" Line="18" Column="10" />
-      <File FileName="BudgetMates/BudgetMates/View/Login.xaml.cs" Line="1" Column="1" />
-      <File FileName="BudgetMates/BudgetMates/View/UpdateBill.xaml.cs" Line="64" Column="39" />
-      <File FileName="BudgetMates/BudgetMates/App.xaml.cs" Line="25" Column="33" />
-      <File FileName="BudgetMates/BudgetMates/View/ViewBill.xaml.cs" Line="68" Column="40" />
+      <File FileName="BudgetMates/BudgetMates/View/SignUp.xaml" />
+      <File FileName="BudgetMates/BudgetMates/View/SignUp.xaml.cs" />
+      <File FileName="BudgetMates/BudgetMates/View/Login.xaml.cs" />
+      <File FileName="BudgetMates/BudgetMates/View/UpdateBill.xaml.cs" />
+      <File FileName="BudgetMates/BudgetMates/App.xaml.cs" />
+      <File FileName="BudgetMates/BudgetMates/View/ViewBill.xaml.cs" />
       <File FileName="BudgetMates/BudgetMates/View/FindYourBills.xaml" Line="1" Column="1" />
-      <File FileName="BudgetMates/BudgetMates/View/FindYourBills.xaml.cs" Line="1" Column="1" />
-      <File FileName="BudgetMates/BudgetMates/View/ViewBill.xaml" Line="5" Column="35" />
-      <File FileName="BudgetMates/BudgetMates/View/Home.xaml" Line="5" Column="35" />
-      <File FileName="BudgetMates/BudgetMates/View/Login.xaml" Line="5" Column="35" />
+      <File FileName="BudgetMates/BudgetMates/View/FindYourBills.xaml.cs" />
+      <File FileName="BudgetMates/BudgetMates/View/ViewBill.xaml" />
+      <File FileName="BudgetMates/BudgetMates/View/Home.xaml" Line="27" Column="15" />
+      <File FileName="BudgetMates/BudgetMates/View/Login.xaml" />
       <File FileName="BudgetMates/BudgetMates/View/HouseSettings.xaml" Line="1" Column="1" />
-      <File FileName="BudgetMates/BudgetMates/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="BudgetMates/BudgetMates.Android/MainActivity.cs" Line="26" Column="70" />
-      <File FileName="BudgetMates/BudgetMates/App.xaml" Line="1" Column="1" />
-      <File FileName="BudgetMates/BudgetMates.iOS/AppDelegate.cs" Line="36" Column="6" />
-      <File FileName="BudgetMates/BudgetMates/MainPage.xaml" Line="1" Column="1" />
+      <File FileName="BudgetMates/BudgetMates/MainPage.xaml.cs" />
+      <File FileName="BudgetMates/BudgetMates.Android/MainActivity.cs" />
+      <File FileName="BudgetMates/BudgetMates/App.xaml" />
+      <File FileName="BudgetMates/BudgetMates.iOS/AppDelegate.cs" />
+      <File FileName="BudgetMates/BudgetMates/MainPage.xaml" />
+      <File FileName="BudgetMates/BudgetMates/View/HouseSettings.xaml.cs" Line="1" Column="1" />
+      <File FileName="BudgetMates/BudgetMates/Models/Person.cs" />
+      <File FileName="BudgetMates/BudgetMates/View/ViewHouseMate.xaml" />
+      <File FileName="BudgetMates/BudgetMates/View/ViewHouseMate.xaml.cs" />
+      <File FileName="BudgetMates/BudgetMates/View/Home.xaml.cs" Line="103" Column="6" />
+      <File FileName="BudgetMates/BudgetMates/Models/House.cs" />
+      <File FileName="BudgetMates/BudgetMates/View/ViewHouses.xaml" />
+      <File FileName="BudgetMates/BudgetMates/View/ViewHouses.xaml.cs" />
+      <File FileName="BudgetMates/BudgetMates/View/UpdateUser.xaml" />
+      <File FileName="BudgetMates/BudgetMates/View/UpdateUser.xaml.cs" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/Versions/6.0.0/lib/mono/msbuild/Current/bin/Microsoft.Common.CurrentVersion.targets" />
+      <File FileName="BudgetMates/BudgetMates/View/AddHouseMate.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BudgetMates" expanded="True">
             <Node name="BudgetMates" expanded="True">
+              <Node name="Models" expanded="True" />
               <Node name="View" expanded="True">
-                <Node name="Login.xaml" expanded="True" />
-                <Node name="SignUp.xaml" expanded="True" />
+                <Node name="AddHouseMate.xaml" expanded="True" />
+                <Node name="FindYourBills.xaml" expanded="True" />
+                <Node name="Home.xaml" expanded="True" selected="True" />
+                <Node name="HouseSettings.xaml" expanded="True" />
                 <Node name="UpdateBill.xaml" expanded="True" />
+                <Node name="UpdateUser.xaml" expanded="True" />
+                <Node name="ViewBill.xaml" expanded="True" />
+                <Node name="ViewHouseMate.xaml" expanded="True" />
+                <Node name="ViewHouses.xaml" expanded="True" />
               </Node>
               <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
             </Node>
             <Node name="BudgetMates.Android" expanded="True" />
-            <Node name="BudgetMates.iOS" expanded="True" />
+            <Node name="BudgetMates.iOS" expanded="True">
+              <Node name="Resources" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

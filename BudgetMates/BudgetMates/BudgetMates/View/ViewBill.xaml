@@ -4,18 +4,18 @@
              x:Class="BudgetMates.View.ViewBill"
              Title="Current Bills">
     <ContentPage.Content>
-      
+        
             <ListView x:Name="viewBillList" HasUnevenRows="true">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
                             <StackLayout> 
-                                <StackLayout Orientation="Vertical" Padding="2" BackgroundColor="Silver" HeightRequest="100">
-                                    <Label Text = "{Binding BillType}"/>
-                                    <Label Text = "{Binding Address}" FontSize="Micro"/>
-                                    <Label Text = "{Binding Month}" FontSize="Micro" />
-                                    <Label Text = "{Binding Amount}" FontSize="Micro" />
-                                    <Label Text = "{Binding DueDate}" FontSize="Micro" />
+                                <StackLayout Orientation="Vertical" Padding="2" BackgroundColor="Silver" HeightRequest="120">
+                                    <Label Text="{Binding BillType}" />
+                                    <Label FontSize="Small" Text="{Binding Address}"/>
+                                    <Label FontSize="Small" Text="{Binding Month}"/>
+                                    <Label FontSize="Small" Text="{Binding Amount}"/>
+                                    <Label FontSize="Small" Text="{Binding DueDate}"/>
                                 </StackLayout>
                             <Grid HeightRequest="5"/>
                             </StackLayout>
@@ -23,28 +23,6 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>        
             </ListView>
-            
-           <!-- 
-          <Label Text="Gas" />
-            <Label Text=" $$ " />
-            <Label Text="_PERIOD_" />
-            <Label Text="_________________________________________________" />
-            
-            <Label Text="Water" />
-            <Label Text=" $$ " />
-            <Label Text="_PERIOD_" />
-            <Label Text="_________________________________________________" />
-            
-            <Label Text="Electrocity" />
-            <Label Text=" $$ " />
-            <Label Text="_PERIOD_" />
-            <Label Text="_________________________________________________" />
-            
-            <Label Text="Rent" />
-            <Label Text=" $$ " />
-            <Label Text="_PERIOD_" />
-
-            -->
             
     </ContentPage.Content>
 </ContentPage>
