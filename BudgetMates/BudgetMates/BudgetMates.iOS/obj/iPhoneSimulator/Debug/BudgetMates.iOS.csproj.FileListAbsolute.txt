@@ -56,7 +56,6 @@
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/optimized/
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/BudgetMates.iOS.csprojAssemblyReference.cache
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/BudgetMates.iOS.csproj.CoreCompileInputs.cache
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/XamlC.stamp
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/BudgetMates.iOS.csproj.CopyComplete
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates.iOS/obj/iPhoneSimulator/Debug/BudgetMates.iOS.exe

@@ -38,8 +38,7 @@ C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/BudgetMates.deps.json
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/BudgetMates.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/BudgetMates.pdb
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/Mono.Android.dll
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/Mono.Android.pdb
+/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.csprojAssemblyReference.cache
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/View/FindYourBills.xaml.g.cs
@@ -52,11 +51,8 @@ C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/View/ViewBill.xaml.g.cs
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/View/ViewHouseMate.xaml.g.cs
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/View/ViewHouses.xaml.g.cs
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.csproj.CoreCompileInputs.cache
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.AssemblyInfoInputs.cache
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.AssemblyInfo.cs
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/XamlC.stamp
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.csproj.CopyComplete
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.pdb
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.csprojAssemblyReference.cache

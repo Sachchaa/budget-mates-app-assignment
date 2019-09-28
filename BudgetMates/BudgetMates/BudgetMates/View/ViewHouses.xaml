@@ -3,9 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="BudgetMates.View.ViewHouses"
              Title="House Details">
-
     <ContentPage.Content>
-
         <StackLayout>
 
             <Label Text="User Name : " />
