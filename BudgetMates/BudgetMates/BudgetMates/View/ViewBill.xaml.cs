@@ -15,7 +15,7 @@ namespace BudgetMates.View
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class ViewBill : ContentPage
 	{
-        List<ListViewItems> Items;
+        List<ListViewItems> Items = new List<ListViewItems>();
         public string home;
 
 		public ViewBill ()
@@ -38,14 +38,15 @@ namespace BudgetMates.View
             using (SQLiteConnection conn = new SQLiteConnection(App.FilePath))
             {    
                 conn.CreateTable<ListViewItems>();
-                var house = conn.Table<ListViewItems>().ToList();
+                var bill = conn.Table<ListViewItems>().ToList();
+                
 
                 //Assign the data in to the lables in List View
-                foreach (var h in house)
+                foreach (var h in bill)
                 {
                     if (home == h.Address)
                     {
-                        Items = new List<ListViewItems>();
+                        
                         Items.Add(new ListViewItems
                         {
                             BillType = h.BillType,

@@ -40,10 +40,8 @@ C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/BudgetMates.pdb
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/Mono.Android.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/bin/Debug/netstandard2.0/Mono.Android.pdb
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.csprojAssemblyReference.cache
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/App.xaml.g.cs
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
-/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/View/AddHouseMate.xaml.g.cs
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/View/FindYourBills.xaml.g.cs
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/View/Home.xaml.g.cs
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/View/HouseSettings.xaml.g.cs
@@ -61,3 +59,4 @@ C:/Users/BLADE PRO/Desktop/BudgetMatesV2/BudgetMatesApp/BudgetMates/BudgetMates/
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.csproj.CopyComplete
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.dll
 /Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.pdb
+/Users/sachinkanishka/BudgetMatesApp/BudgetMates/BudgetMates/BudgetMates/obj/Debug/netstandard2.0/BudgetMates.csprojAssemblyReference.cache

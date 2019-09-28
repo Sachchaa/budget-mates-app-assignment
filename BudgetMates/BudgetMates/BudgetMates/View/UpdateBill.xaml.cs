@@ -82,7 +82,7 @@ namespace BudgetMates.View
                     //Check the bill is already exist. If the bill is already there, then diplays an alert
                     foreach (var item in bill)
                     {
-                        if (item.BillType == BillType.SelectedItem.ToString() && item.Month == Month.SelectedItem.ToString())
+                        if (item.Address == Address.SelectedIndex.ToString() && item.BillType == BillType.SelectedItem.ToString() && item.Month == Month.SelectedItem.ToString())
                         {
                             DisplayAlert("Unsuccessfull !", "This bill is already exist. Insert a new bill!", "Ok");
                             x = 2;

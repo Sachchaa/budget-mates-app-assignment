@@ -4,5 +4,23 @@
              x:Class="BudgetMates.View.FindYourBills"
              Title="Find Your Share">
     <ContentPage.Content>
+
+        <ListView x:Name="viewBillShare" HasUnevenRows="true">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout> 
+                                <StackLayout Orientation="Vertical" Padding="2" BackgroundColor="Silver" HeightRequest="120">
+                                    <Label Text="{Binding yourBillType}" />
+                                    <Label Text="{Binding yourMonth}"/>
+                                    <Label Text="{Binding yourDueDate}"/>
+                                    <Label Text="{Binding yourShareAmount}"/>
+                                </StackLayout>
+                            <Grid HeightRequest="5"/>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>        
+            </ListView>
     </ContentPage.Content>
 </ContentPage>

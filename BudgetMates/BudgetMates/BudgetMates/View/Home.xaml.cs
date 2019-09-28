@@ -90,7 +90,7 @@ namespace BudgetMates
         */
         private async void FindBill_Clicked(Object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new FindYourBills());
+            await Navigation.PushAsync(new FindYourBills(lblUserHomeCode.Text));
         }
 
         /*  Activity for the Log Out button. 'Login' page displays when the button clicked. */

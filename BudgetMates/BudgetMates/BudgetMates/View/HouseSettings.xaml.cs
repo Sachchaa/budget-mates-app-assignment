@@ -36,7 +36,9 @@ namespace BudgetMates.View
                     suburb = getSuburb.Text,
                     state = getState.Text,
                     postCode = getPostCode.Text,
+                    numberOfRooms = int.Parse(getNUmberOfRooms.Text),
                     houseCode = getSuburb.Text + " " + getPostCode.Text
+                    
                 };
                
                 using (SQLiteConnection conn = new SQLiteConnection(App.FilePath))

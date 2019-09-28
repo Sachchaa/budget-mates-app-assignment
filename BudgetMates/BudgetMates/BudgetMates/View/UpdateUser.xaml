@@ -21,7 +21,7 @@
             <Picker x:Name="pickHomeAddress" Title= "Select Address" FontSize="Medium"/>
 
             <Label Text="Home Address Code:" />
-            <Editor x:Name="setHomeAddress"/>
+            <Label x:Name="setHomeAddress" FontSize="Medium"/>
             
             <Label Text="Password : " />
             <Editor x:Name="setPassword"/>
