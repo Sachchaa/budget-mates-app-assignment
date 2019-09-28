@@ -13,7 +13,7 @@
 namespace BudgetMates.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View/FindYourBills.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\FindYourBills.xaml")]
     public partial class FindYourBills : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]

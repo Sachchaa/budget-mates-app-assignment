@@ -6,7 +6,7 @@
     <ContentPage.Content>
         <StackLayout>
             
-            <Label Text=" House Budget , app image" />
+          
             
             <Label Text="User Name : " FontSize="Small"/>
             <Editor x:Name="getUserName1" FontSize="Small"/>

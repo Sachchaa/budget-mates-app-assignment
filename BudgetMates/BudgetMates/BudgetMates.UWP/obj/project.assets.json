@@ -386,7 +386,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Forms": "3.4.0.1008975",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/BudgetMates.dll": {}
@@ -945,7 +945,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Forms": "3.4.0.1008975",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/BudgetMates.dll": {}
@@ -1505,7 +1505,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Forms": "3.4.0.1008975",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/BudgetMates.dll": {}
@@ -1886,7 +1886,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Forms": "3.4.0.1008975",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/BudgetMates.dll": {}
@@ -2445,7 +2445,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Forms": "3.4.0.1008975",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/BudgetMates.dll": {}
@@ -3005,7 +3005,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Forms": "3.4.0.1008975",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/BudgetMates.dll": {}
@@ -3564,7 +3564,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Forms": "3.4.0.1008975",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/BudgetMates.dll": {}
@@ -4124,7 +4124,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Xamarin.Forms": "3.4.0.1008975",
-          "sqlite-net-pcl": "1.5.231"
+          "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
           "bin/placeholder/BudgetMates.dll": {}
@@ -8124,11 +8124,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\BudgetMates.UWP.csproj",
+      "projectUniqueName": "C:\\Users\\BLADE PRO\\Desktop\\Ok\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\BudgetMates.UWP.csproj",
       "projectName": "BudgetMates.UWP",
-      "projectPath": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\BudgetMates.UWP.csproj",
+      "projectPath": "C:\\Users\\BLADE PRO\\Desktop\\Ok\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\BudgetMates.UWP.csproj",
       "packagesPath": "C:\\Users\\BLADE PRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\obj\\",
+      "outputPath": "C:\\Users\\BLADE PRO\\Desktop\\Ok\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8150,8 +8150,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj": {
-              "projectPath": "C:\\Users\\BLADE PRO\\Desktop\\BudgetMatesV2\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj"
+            "C:\\Users\\BLADE PRO\\Desktop\\Ok\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj": {
+              "projectPath": "C:\\Users\\BLADE PRO\\Desktop\\Ok\\BudgetMatesApp\\BudgetMates\\BudgetMates\\BudgetMates\\BudgetMates.csproj"
             }
           }
         }
@@ -8203,5 +8203,24 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: sqlite-net-pcl from 1.6.292 to 1.5.231. Reference the package directly from the project to select a different version. \r\n BudgetMates.UWP -> BudgetMates -> sqlite-net-pcl (>= 1.6.292) \r\n BudgetMates.UWP -> sqlite-net-pcl (>= 1.5.231)",
+      "libraryId": "sqlite-net-pcl",
+      "targetGraphs": [
+        "UAP,Version=v10.0.16299",
+        "UAP,Version=v10.0.16299/win10-arm",
+        "UAP,Version=v10.0.16299/win10-arm-aot",
+        "UAP,Version=v10.0.16299/win10-arm64-aot",
+        "UAP,Version=v10.0.16299/win10-x64",
+        "UAP,Version=v10.0.16299/win10-x64-aot",
+        "UAP,Version=v10.0.16299/win10-x86",
+        "UAP,Version=v10.0.16299/win10-x86-aot"
+      ]
+    }
+  ]
 }

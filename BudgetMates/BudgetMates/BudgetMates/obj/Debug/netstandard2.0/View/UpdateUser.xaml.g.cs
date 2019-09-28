@@ -13,7 +13,7 @@
 namespace BudgetMates.View {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View/UpdateUser.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("View\\UpdateUser.xaml")]
     public partial class UpdateUser : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
